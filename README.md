@@ -1,6 +1,6 @@
-# 📊 Mobile Sales Analytics – Power BI Project
+# 📊 Mobile Sales Analytics – Power BI Project :
 
-##  Project Overview
+##  Project Overview 
 
 This project presents an interactive Business Intelligence dashboard developed using Power BI to analyze mobile sales data.
 
@@ -108,19 +108,8 @@ This dashboard enables:
 - Growth trend evaluation  
 - Data-driven strategic decision-making
 
- ## 📸 Dashboard Preview
-
-### Dashboard 1
-![Dashboard 1](screenshots/dashboard1.png)
-
-### Dashboard 2
-![Dashboard 2](screenshots/dashboard2.png)
-
-### Dashboard 3
-![Dashboard 3](screenshots/dashboard3.png)
-
 ---
-
+  
 ## 👤 Author
 
 **Ariyan Shaikh**  
